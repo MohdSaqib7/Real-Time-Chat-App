@@ -1,0 +1,16 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is Real time chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malik",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "socket.io": "^4.5.0"
+  },
+  "devDependencies": {}
+}
